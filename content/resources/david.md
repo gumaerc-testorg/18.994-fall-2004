@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b2b3b26-9ed0-4fbf-5053-58028ba89281
 resourcetype: Document
 title: David.pdf
 uid: 99ad614f-bf2c-72b2-84b1-5e7f29fd5854

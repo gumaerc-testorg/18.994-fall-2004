@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 40d97fd5-340f-0f53-9ede-a59370279bb7
 resourcetype: Document
 title: chapter17.pdf
 uid: a85a76f7-105a-0b6c-6dd3-92027d69341f
