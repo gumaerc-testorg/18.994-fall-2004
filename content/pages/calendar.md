@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 28caa9aa-07c9-df7e-4a8f-51b0123d558e
+video_metadata:
+  youtube_id: null
 ---
 
 In this course, the instructor and the students take turns in giving lectures. The topics listed in the table are intended only to point students to the relevant material.

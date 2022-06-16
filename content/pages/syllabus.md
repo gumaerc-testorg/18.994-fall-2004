@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 92be05fd-7406-286f-d4be-ab9adbfff324
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
