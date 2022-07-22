@@ -5,6 +5,7 @@ file: /courses/18-994-seminar-in-geometry-fall-2004/da5b733e296f4ddaf365725ecf32
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This is the complete set of lecture notes for this course.
-

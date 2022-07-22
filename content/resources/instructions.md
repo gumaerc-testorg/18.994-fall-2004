@@ -6,6 +6,7 @@ file: /courses/18-994-seminar-in-geometry-fall-2004/14c26c1ff459cd10abbb264d7532
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 In this course, the students take turns in giving lectures. This handout gives some guidelines for preparing and presenting these lectures.
-

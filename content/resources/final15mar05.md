@@ -6,6 +6,7 @@ file: /courses/18-994-seminar-in-geometry-fall-2004/ffa624151fa9cc2f55fb976b4a8e
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Example of a student's final project paper. (Courtesy of Michael Nagle. Used with permission.)
-

@@ -5,6 +5,7 @@ file: /courses/18-994-seminar-in-geometry-fall-2004/5cf6314e5d8505cf4bc1919ae8fc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 Assigned problems for homework.
-
