@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 92be05fd-7406-286f-d4be-ab9adbfff324
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -12,7 +17,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Format and Description
 ----------------------
 
-In this course, students take turns in giving lectures. For the most part, the lectures are based on Robert Osserman's classic book _A Survey of Minimal Surfaces_, and Michael Spivak's _Calculus on Manifolds_, Manfredo Do Carmo's _Curves and Surfaces_.  Lars Ahlfors' _Complex Analysis_ will also be referred to at various points. Note that Do Carmo treats only surfaces in _R3_; many things are easy to generalise; some things do not generalise or it is difficult to see how they do. Spivak refers to '_Calculus on Manifolds_'; Spivak 3 and 4 refer to volumes of his '_Differential Geometry_' series.
+In this course, students take turns in giving lectures. For the most part, the lectures are based on Robert Osserman's classic book _A Survey of Minimal Surfaces_, and Michael Spivak's _Calculus on Manifolds_, Manfredo Do Carmo's _Curves and Surfaces_.  Lars Ahlfors' _Complex Analysis_ will also be referred to at various points. Note that Do Carmo treats only surfaces in _R{{< sup "3" >}}_; many things are easy to generalise; some things do not generalise or it is difficult to see how they do. Spivak refers to '_Calculus on Manifolds_'; Spivak 3 and 4 refer to volumes of his '_Differential Geometry_' series.
 
 Textbooks
 ---------

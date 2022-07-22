@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 3460096c-4b55-36f9-630f-31293ec63f12
+video_metadata:
+  youtube_id: null
 ---
 
 [How to Read Mathematics](http://www.stonehill.edu/compsci/History_Math/math-read.htm) by Shai Simonson and Fernando Gouveau

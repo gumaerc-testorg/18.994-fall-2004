@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: a2cd53f9-b303-d932-36d3-3b6db7224913
+video_metadata:
+  youtube_id: null
 ---
 
 Readings are from the following textbooks.
