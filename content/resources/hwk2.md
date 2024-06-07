@@ -2,6 +2,7 @@
 content_type: resource
 description: Assigned problems for homework.
 file: /courses/18-994-seminar-in-geometry-fall-2004/ca9f39ba90b4591bd563d63fb7327ebf_hwk2.pdf
+file_size: 37333
 file_type: application/pdf
 learning_resource_types:
 - Assignments
