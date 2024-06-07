@@ -3,6 +3,7 @@ content_type: resource
 description: Example of a student's final project paper. (Courtesy of David Glasser.
   Used with permission.)
 file: /courses/18-994-seminar-in-geometry-fall-2004/99ad614fbf2c72b284b15e7f29fd5854_David.pdf
+file_size: 206125
 file_type: application/pdf
 learning_resource_types:
 - Projects

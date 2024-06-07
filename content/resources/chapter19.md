@@ -5,6 +5,7 @@ description: 'Chapter 19 of the Lecture Notes for the course. The lecture notes 
   Michael Nagle, Nizam Ordulu. The full set of lecture notes are elsewhere available
   as a single file.'
 file: /courses/18-994-seminar-in-geometry-fall-2004/b24cb20786f79412d897afb455d19d17_chapter19.pdf
+file_size: 107177
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

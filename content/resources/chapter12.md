@@ -5,6 +5,7 @@ description: 'Chapter 12 of the Lecture Notes for the course. The lecture notes 
   Michael Nagle, Nizam Ordulu. The full set of lecture notes are elsewhere available
   as a single file.'
 file: /courses/18-994-seminar-in-geometry-fall-2004/f0e4c6cdb9aeabceac04fa5d52ee418d_chapter12.pdf
+file_size: 126525
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
