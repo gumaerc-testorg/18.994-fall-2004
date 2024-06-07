@@ -3,6 +3,7 @@ content_type: resource
 description: Example of a student's final paper project. (Courtesy of Kai-Wing Fung.
   Used with permission.)
 file: /courses/18-994-seminar-in-geometry-fall-2004/3714cffbc716be9ae9a67930c7473272_main1.pdf
+file_size: 2330957
 file_type: application/pdf
 learning_resource_types:
 - Projects
