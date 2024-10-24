@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of a student's final project paper. (Courtesy of Michael Nagle.
   Used with permission.)
-file: /courses/18-994-seminar-in-geometry-fall-2004/ffa624151fa9cc2f55fb976b4a8eeb75_final15mar05.pdf
+file: /ol-ocw-studio-app/courses/18-994-seminar-in-geometry-fall-2004/ffa624151fa9cc2f55fb976b4a8eeb75_final15mar05.pdf
 file_size: 248526
 file_type: application/pdf
 learning_resource_types:
