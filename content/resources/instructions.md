@@ -2,7 +2,7 @@
 content_type: resource
 description: In this course, the students take turns in giving lectures. This handout
   gives some guidelines for preparing and presenting these lectures.
-file: /courses/18-994-seminar-in-geometry-fall-2004/14c26c1ff459cd10abbb264d75325b95_instructions.pdf
+file: /ol-ocw-studio-app/courses/18-994-seminar-in-geometry-fall-2004/14c26c1ff459cd10abbb264d75325b95_instructions.pdf
 file_size: 122319
 file_type: application/pdf
 learning_resource_types:
