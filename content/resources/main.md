@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the complete set of lecture notes for this course.
-file: /courses/18-994-seminar-in-geometry-fall-2004/da5b733e296f4ddaf365725ecf328ee9_main.pdf
+file: /ol-ocw-studio-app/courses/18-994-seminar-in-geometry-fall-2004/da5b733e296f4ddaf365725ecf328ee9_main.pdf
 file_size: 845664
 file_type: application/pdf
 learning_resource_types:
