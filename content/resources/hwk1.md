@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assigned problems for homework.
-file: /ol-ocw-studio-app/courses/18-994-seminar-in-geometry-fall-2004/76c1dd035d4a0cc242f0c94d0f7324aa_hwk1.pdf
+file: /courses/18-994-seminar-in-geometry-fall-2004/76c1dd035d4a0cc242f0c94d0f7324aa_hwk1.pdf
 file_size: 35410
 file_type: application/pdf
 learning_resource_types:

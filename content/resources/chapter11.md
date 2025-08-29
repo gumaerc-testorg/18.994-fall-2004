@@ -4,7 +4,7 @@ description: 'Chapter 11 of the Lecture Notes for the course. The lecture notes 
   prepared by the Instructor Dr. Emma Carberry and the students: Kai Fung, David Glasser,
   Michael Nagle, Nizam Ordulu. The full set of lecture notes are elsewhere available
   as a single file.'
-file: /ol-ocw-studio-app/courses/18-994-seminar-in-geometry-fall-2004/03404e01d880c4b02d7bf832dce857f0_chapter11.pdf
+file: /courses/18-994-seminar-in-geometry-fall-2004/03404e01d880c4b02d7bf832dce857f0_chapter11.pdf
 file_size: 103515
 file_type: application/pdf
 learning_resource_types:
