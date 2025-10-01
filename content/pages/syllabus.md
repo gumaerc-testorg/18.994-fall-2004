@@ -38,7 +38,7 @@ Students may wish to consult additional material when preparing lectures. Osserm
 Recommended Reading About Reading
 ---------------------------------
 
-For general information about reading mathematics, students should consult the article "[How to Read Mathematics](http://www.stonehill.edu/compsci/History_Math/math-read.htm)" by Shai Simonson and Fernando Gouveau. It is published on the web, and talks about the language of mathematics, and how best to approach it.
+For general information about reading mathematics, students should consult the article "{{% resource_link "b320258a-cbdd-43fd-8d01-8c4921c8bc99" "How to Read Mathematics" %}}" by Shai Simonson and Fernando Gouveau. It is published on the web, and talks about the language of mathematics, and how best to approach it.
 
 Homework
 --------
